@@ -33,30 +33,6 @@ Job-skill bridge
         +--> Company hiring mart
 ```
 
-## Repository structure
-
-```text
-SQL_Data_Engineering_Projects/
-├── 1_EDA/
-│   ├── 01_top_demanded_skills.sql
-│   ├── 02_top_paying_skills.sql
-│   ├── 03_optimal_skills.sql
-│   └── README.md
-├── 2_WH_Mart_Build/
-│   ├── 01_create_tables_dw.sql
-│   ├── 02_load_schema_dw.sql
-│   ├── 03_create_flat_mart.sql
-│   ├── 04_create_skills_mart.sql
-│   ├── 05_create_priority_mart.sql
-│   ├── 06_update_priority_mart.sql
-│   ├── 07_create_company_mart.sql
-│   ├── build_dw_marts.sql
-│   ├── dw_marts.duckdb
-│   └── README.md
-├── Resources/
-└── README.md
-```
-
 ## EDA insights
 
 [![Top skills in demand](./Resources/top%20skills%20in%20demand.png)](./Resources/top%20skills%20in%20demand.png)
