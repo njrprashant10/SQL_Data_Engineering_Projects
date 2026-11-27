@@ -1,0 +1,3 @@
+# Generated DuckDB database and write-ahead log
+2_WH_Mart_Build/*.duckdb
+2_WH_Mart_Build/*.duckdb.wal
