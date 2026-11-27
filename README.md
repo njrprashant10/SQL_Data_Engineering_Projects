@@ -1,6 +1,6 @@
 # SQL Data Engineering Projects
 
-An end-to-end SQL portfolio project for analyzing remote Data Engineer job postings and transforming source data into a DuckDB dimensional warehouse and analytical data marts.
+An end-to-end SQL project for analyzing remote Data Engineer job postings and transforming source data into a DuckDB dimensional warehouse and analytical data marts.
 
 ## Project overview
 
